@@ -1,7 +1,7 @@
 <?php 
 
 
-namespace vitalis\HelloWorld;
+namespace kirankensium\HelloWorld;
 
 class Index
 {
