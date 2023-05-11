@@ -1,17 +1,18 @@
 {
-    "name": "kirankensium/hello-composer",
+    "name": "kirankspl/hello-composer",
     "description": "A simple hello world composer package",
+    "version": "1.0.0",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Ogbonna Vitalis",
-            "email": "agavitalisogbonna@gmail.com"
+            "name": "Kiran",
+            "email": "kiran.kspl@gmail.com"
         }
     ],
     "minimum-stability": "stable",
     "autoload": {
-        "psr-4": {"kirankensium\\HelloWorld\\": "src/"}
+        "psr-4": {"kirankspl\\HelloWorld\\": "src/"}
     },
     "require": {}
 }
